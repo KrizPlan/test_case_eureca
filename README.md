@@ -6,7 +6,7 @@ Button on second form create txt file near executable file.
 
 ## Build
 Simple way to build program
-'''
+```
 qmake .
 make
-'''
+```
